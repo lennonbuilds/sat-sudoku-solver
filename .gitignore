@@ -1,0 +1,13 @@
+# Compiled executables
+sudoku_gui
+sudoku_main
+sudoku_cli
+benchmark
+tests
+
+# Build files
+*.o
+*.out
+
+# Editor files
+.vscode/
